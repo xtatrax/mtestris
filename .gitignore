@@ -1,3 +1,5 @@
+#Out
+testris
 
 # Mac Extended Attributes 拡張属性
 ._*
@@ -92,3 +94,5 @@ Makefile
 /config.h
 /config.h.in~
 /configure.ac
+
+configure~
